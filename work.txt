@@ -1,0 +1,11 @@
+total 98
+-rw-r--r-- 1 pimper 197609 35329 Apr 16 10:34 441ade95dbb42679dcb8b9005bf52c2c.jpg
+-rw-r--r-- 1 pimper 197609 35823 Apr 16 10:34 LICENSE
+-rw-r--r-- 1 pimper 197609    84 Apr 16 10:34 README.md
+-rw-r--r-- 1 pimper 197609     0 Apr 16 10:34 animal.txt
+-rw-r--r-- 1 pimper 197609     0 Apr 16 10:34 cat.txt
+-rw-r--r-- 1 pimper 197609     0 Apr 16 10:34 dog.txt
+-rw-r--r-- 1 pimper 197609  5898 Apr 16 10:34 images.jpg
+-rw-r--r-- 1 pimper 197609   120 Apr 16 11:06 new.txt
+-rw-r--r-- 1 pimper 197609 12374 Apr 16 10:34 sc30qjgnbbla1.webp
+-rw-r--r-- 1 pimper 197609     0 Apr 16 11:11 work.txt

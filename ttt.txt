@@ -1,0 +1,15 @@
+total 114
+drwxr-xr-x 1 pimper 197609     0 Apr 16 10:07 ./
+drwxr-xr-x 1 pimper 197609     0 Apr 16 09:55 ../
+drwxr-xr-x 1 pimper 197609     0 Apr 16 10:06 .git/
+-rw-r--r-- 1 pimper 197609  7788 Apr 16 09:03 .gitignore
+-rw-r--r-- 1 pimper 197609 35329 Apr 16 09:03 441ade95dbb42679dcb8b9005bf52c2c.jpg
+-rw-r--r-- 1 pimper 197609 35823 Apr 16 09:03 LICENSE
+-rw-r--r-- 1 pimper 197609    84 Apr 16 09:03 README.md
+-rw-r--r-- 1 pimper 197609     0 Apr 16 09:03 animal.txt
+-rw-r--r-- 1 pimper 197609     0 Apr 16 09:03 cat.txt
+-rw-r--r-- 1 pimper 197609     0 Apr 16 09:03 dog.txt
+-rw-r--r-- 1 pimper 197609  5898 Apr 16 09:03 images.jpg
+-rw-r--r-- 1 pimper 197609 12374 Apr 16 09:03 sc30qjgnbbla1.webp
+-rw-r--r-- 1 pimper 197609   544 Apr 16 10:02 test.txt
+-rw-r--r-- 1 pimper 197609     0 Apr 16 10:07 ttt.txt
